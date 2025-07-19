@@ -7,7 +7,7 @@ setup(
     name="torch-device-manager",
     version="0.1.0",
     author="Ali B.M.",
-    author_email="alimainabukar@gmail.com",
+    author_email="mainabukarali@gmail.com",
     description="A PyTorch device manager for automatic hardware detection and memory optimization",
     long_description=long_description,
     long_description_content_type="text/markdown",
